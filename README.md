@@ -1,2 +1,2 @@
-# FIRE
-Financial Independence Retire Early
+# Personal Finance Dashboard
+
